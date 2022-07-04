@@ -1,0 +1,16 @@
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 2px solid red;
+    margin-top: 20%;
+    margin-left: 40%;
+    transform: rotate(-30deg);
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+}
